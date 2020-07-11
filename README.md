@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 -->
-- 🔭 I’m currently working on Python, MySQL
+- 🔭 I’m currently working on Python, MySQL, Machine Learning
 - 🌱 I’m currently learning Natural Language Processing using Python
 - 👯 I’m looking to collaborate on NLP projects
 
